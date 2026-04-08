@@ -12,7 +12,6 @@
     "state": "CA",
     "region": "West"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 3,
@@ -20,7 +19,6 @@
     "state": "IL",
     "region": "Midwest"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 4,
@@ -28,7 +26,6 @@
     "state": "TX",
     "region": "South"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 5,
@@ -36,7 +33,6 @@
     "state": "AZ",
     "region": "Southwest"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 6,
@@ -44,7 +40,6 @@
     "state": "PA",
     "region": "Northeast"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 7,
@@ -52,7 +47,6 @@
     "state": "TX",
     "region": "South"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 8,
@@ -60,7 +54,6 @@
     "state": "CA",
     "region": "West"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 9,
@@ -68,7 +61,6 @@
     "state": "TX",
     "region": "South"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   },
   {
     "city_id": 10,
@@ -76,6 +68,5 @@
     "state": "CA",
     "region": "West"
     "updated_at":"2026-04-08T12:02:06.989+00:00"
-
   }
 ]
